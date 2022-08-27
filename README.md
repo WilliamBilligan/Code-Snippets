@@ -15,4 +15,4 @@ This repository was created to store and distribute code snippets based on Azure
 5. Add snippet code rows from this repository.
 6. Save sql.json.
 
-Or just add code in explorer into C:\Users\{user_name}\AppData\Roaming\azuredatastudio\User\snippets\sql.json
+Or just add code in explorer into C:\Users\ {user_name} \AppData\Roaming\azuredatastudio\User\snippets\sql.json

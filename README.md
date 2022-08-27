@@ -6,7 +6,7 @@ This repository was created to store and distribute code snippets based on Azure
 
 >[Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
-#How to use
+# How to use
 
 1. Open Azure Data Studio.
 2. Open View > Command palette (CTRL+SHIFT+P).
